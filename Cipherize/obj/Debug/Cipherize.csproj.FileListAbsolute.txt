@@ -1,0 +1,7 @@
+C:\Users\vladi\source\repos\Cipherize\Cipherize\obj\Debug\Cipherize.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Cipherize\Cipherize\obj\Debug\Cipherize.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Cipherize\Cipherize\bin\Debug\Cipherize.exe.config
+C:\Users\vladi\source\repos\Cipherize\Cipherize\bin\Debug\Cipherize.exe
+C:\Users\vladi\source\repos\Cipherize\Cipherize\bin\Debug\Cipherize.pdb
+C:\Users\vladi\source\repos\Cipherize\Cipherize\obj\Debug\Cipherize.exe
+C:\Users\vladi\source\repos\Cipherize\Cipherize\obj\Debug\Cipherize.pdb
